@@ -57,10 +57,6 @@ Each directory contains explorations on specific topics:
 
 This is an active learning project. Code is exploratory and may not always be production-ready. The goal is understanding first, optimization second.
 
-## 📝 License
-
-MIT License - Feel free to use this for your own learning!
-
 ---
 
 **Last Updated:** April 2026
